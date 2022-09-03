@@ -14,7 +14,7 @@ body {
 }
 
 .cabecalho .logo {
-  background: url(../images/logo.jpg) center center no-repeat;
+  background: url('../images/logo.jpg') center center no-repeat;
   width: 85px;
   height: 85px;
   display: inline-block;
@@ -40,7 +40,7 @@ body {
 }
 
 .painel {
-  background: url(../images/painel.jpg) center center no-repeat;
+  background: url('../images/painel.jpg') center center no-repeat;
   height: 600px;
 }
 
@@ -88,25 +88,25 @@ body {
 }
 
 .ladrilho .grande {
-  background: url(../images/4.jpg) center center no-repeat;
+  background: url('../images/4.jpg') center center no-repeat;
   height: 600px;
   width: 50%;
 }
 
 .ladrilho .pequeno {
-  background: url(../images/3.jpg) center center no-repeat;
+  background: url('../images/3.jpg') center center no-repeat;
   height: 300px;
   width: 25%;
 }
 
 .ladrilho .pequeno.grao {
-  background: url(../images/2.jpg) center center no-repeat;
+  background: url('../images/2.jpg') center center no-repeat;
   height: 300px;
   width: 25%;
 }
 
 .ladrilho .medio {
-  background: url(../images/1.jpg) center center no-repeat;
+  background: url('../images/1.jpg') center center no-repeat;
   height: 300px;
   width: 50%;
 }
